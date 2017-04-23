@@ -1,4 +1,4 @@
-#Eledark
+# Eledark
 ![Eledark Theme](http://i.imgur.com/s3BdmXs.png)
 ### About
 Eledark is a plank theme that focus to look great in elementary os gtk dark theme 
